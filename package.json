@@ -12,6 +12,8 @@
     "@dynamic-labs/ethereum": "^3.6.3",
     "@dynamic-labs/sdk-react-core": "^3.6.3",
     "@dynamic-labs/wagmi-connector": "^3.6.3",
+    "@ethsign/sp-sdk": "^0.7.8",
+    "@noble/secp256k1": "^2.1.0",
     "@radix-ui/react-accordion": "^1.2.1",
     "@radix-ui/react-scroll-area": "^1.2.1",
     "@radix-ui/react-slot": "^1.1.0",

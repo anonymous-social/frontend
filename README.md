@@ -40,3 +40,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 Deployer: 0x2044fD324fe22eb0DFEE7Abf5a7C24cD1E889337
 Deployed to: 0x03D112831a5b0AE2C6575877A2Cb60DDCa9fe44d
 Transaction hash: 0xa296964618a4803ae22a3caa5a3a469f1ef45d9a923fb9f3eaec75c39c3eda45
+
+Deployer: 0x2044fD324fe22eb0DFEE7Abf5a7C24cD1E889337
+Deployed to: 0xA431c99C64D6Fd6a506684530569cdb12F5aAd39
+Transaction hash: 0x176d9a76507ea7dee5673fd8d19714c3e8b57c77b844fd954c25bb2dca5f6c18
+
+Deployer: 0x2044fD324fe22eb0DFEE7Abf5a7C24cD1E889337
+Deployed to: 0x0c4eb13C4F6336E3a90862e54f1a3Da7dfE63dbb
+Transaction hash: 0x585db0b70e675eadbd07925db80daa2f69ae1470f8a61cd5e00920d1328a5bec
